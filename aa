@@ -1,0 +1,3 @@
+gray.shape
+x = gray.flatten()
+x.shape
